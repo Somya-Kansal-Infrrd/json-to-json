@@ -45,8 +45,8 @@ mapping_collection.insert_many([
 ])
 
 
-print("AUTO and MORTGAGE mappings inserted successfully!")
+print("AUTO and MORTGAGE mappings inserted successfully")
 print("MongoDB connected successfully!")
 print("Collections:")
-print(" - field_transformation_config")
-print(" - converted_documents")
+print("field_transformation_config")
+print("converted_documents")
