@@ -5,13 +5,13 @@ def convert_document(document, business_type, request_id, request_status):
     # 1. Get mapping from MongoDB
     mappings = fetch_mapping_config(business_type)
 
-    # Convert mapping list into a  dictionary
+    # Use to Convert mapping list into a  dictionary
     mapping_lookup = {
         mapping["titanFieldName"]: mapping
         for mapping in mappings
     }
 
-    # 2. Find Object List field
+    # 2. FRom there we can Find Object List field
     object_list_field = next(
         (
             field
@@ -21,13 +21,13 @@ def convert_document(document, business_type, request_id, request_status):
         None
     )
 
-    # 3. If no Object List, create one empty group
+    # 3. If no Object List, we have to create one empty group
     if object_list_field:
         groups = object_list_field["values"]
     else:
         groups = [[]]
 
-    # 4. Convert common fields
+    # 4. Convert common fields from this part
     common_fields = []
 
     for field in document["fields"]:
@@ -129,19 +129,19 @@ def build_metadata(
     else:
         document_name = f"{document_name}_{group_index + 1}"
 
-    # Get business type
+    # Get business type From Here
     business_type = get_hierarchy_value(
         document,
         "CollateralType"
     )
 
-    # Get document type
+    # Get document type From Here
     document_type = get_hierarchy_value(
         document,
         "DocumentType"
     )
 
-    # Check LIST_TYPE
+    # Check LIST_TYPE FRom Here
     list_document = False
 
     for item in document.get("docTypeHierarchy", []):
