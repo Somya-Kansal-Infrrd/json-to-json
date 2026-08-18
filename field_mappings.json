@@ -1,0 +1,1038 @@
+{
+	   "autoFieldTransformationConfig": [
+      {
+        "titanFieldName": "Policy Holder Address",
+        "customFormatFieldName": "policy_holder_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Address Street Address",
+        "customFormatFieldName": "policy_holder_address_street_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Street Address",
+        "customFormatFieldName": "policy_holder_address_street_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Address City",
+        "customFormatFieldName": "policy_holder_address_city",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Address State",
+        "customFormatFieldName": "policy_holder_address_state",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Address Zip",
+        "customFormatFieldName": "policy_holder_address_zipcode",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder City",
+        "customFormatFieldName": "policy_holder_address_city",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder State",
+        "customFormatFieldName": "policy_holder_address_state",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Zip",
+        "customFormatFieldName": "policy_holder_address_zipcode",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Insurance Type",
+        "customFormatFieldName": "insurance_type",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Insurance Type ",
+        "customFormatFieldName": "insurance_type",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Effective Date",
+        "customFormatFieldName": "policy_effective_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Expiration Date",
+        "customFormatFieldName": "policy_expiration_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Change Effective Date",
+        "customFormatFieldName": "change_effective_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Cancellation Date",
+        "customFormatFieldName": "cancellation_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Collateral Year",
+        "customFormatFieldName": "collateral_year",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Collateral Make",
+        "customFormatFieldName": "collateral_make",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Collateral Model",
+        "customFormatFieldName": "collateral_model",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Collateral ID",
+        "customFormatFieldName": "collateral_id",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Comprehensive Deductible",
+        "customFormatFieldName": "comprehensive_deductible",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Comprehensive Coverage Flag",
+        "customFormatFieldName": "comp_cvg",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Collision Deductible",
+        "customFormatFieldName": "collision_deductible",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Collision Coverage Flag",
+        "customFormatFieldName": "coll_cvg",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Vehicle Delete",
+        "customFormatFieldName": "vehicle_delete",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Lienholder",
+        "customFormatFieldName": "lienholder_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Combined Hazard/Flood",
+        "customFormatFieldName": "combined_hazard_flag",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "HO6/Condominium",
+        "customFormatFieldName": "ho_6_flag",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Private Policy Flood",
+        "customFormatFieldName": "private_policy_flag",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Loan Number",
+        "customFormatFieldName": "loan_number",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Name",
+        "customFormatFieldName": "policy_holder_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property Address",
+        "customFormatFieldName": "property_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property Address Street",
+        "customFormatFieldName": "property_address_street_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property Address Street Name",
+        "customFormatFieldName": "property_address_street_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property Address Unit Number",
+        "customFormatFieldName": "property_address_street_unit_number",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property City",
+        "customFormatFieldName": "property_city",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property State",
+        "customFormatFieldName": "property_state",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property Zip",
+        "customFormatFieldName": "property_zip",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Cancel Date",
+        "customFormatFieldName": "policy_cancel_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Cancel Reason",
+        "customFormatFieldName": "policy_cancel_reason",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Cancel Reason Code",
+        "customFormatFieldName": "policy_cancel_reason_code",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Reinstatement Date",
+        "customFormatFieldName": "reinstatement_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Number",
+        "customFormatFieldName": "policy_number",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier Name",
+        "customFormatFieldName": "carrier_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier/Agent Phone",
+        "customFormatFieldName": "carrier_agent_phone",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier/Agent Name",
+        "customFormatFieldName": "carrier_agent_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier/Agent Email",
+        "customFormatFieldName": "carrier_agent_email",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier Agent Name",
+        "customFormatFieldName": "carrier_agent_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier Agent Email",
+        "customFormatFieldName": "carrier_agent_email",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier Agent Fax",
+        "customFormatFieldName": "carrier_agent_fax",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier Agent Phone Number",
+        "customFormatFieldName": "carrier_agent_phone",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "NFIP Policy Number",
+        "customFormatFieldName": "nfip_policy_no",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee",
+        "customFormatFieldName": "mortgagee_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee Address",
+        "customFormatFieldName": "mortgagee_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee Address Street",
+        "customFormatFieldName": "mortgagee_street_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee Street Name",
+        "customFormatFieldName": "mortgagee_street_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee Unit Number",
+        "customFormatFieldName": "mortgagee_street_unit_number",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee City",
+        "customFormatFieldName": "mortgagee_city",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee State",
+        "customFormatFieldName": "mortgagee_state",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee Zip",
+        "customFormatFieldName": "mortgagee_zip",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Coverage Amount",
+        "customFormatFieldName": "coverage_amount",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Annual Premium",
+        "customFormatFieldName": "policy_premium",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Amount To Pay",
+        "customFormatFieldName": "additional_premium_amt",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Premium Due Date",
+        "customFormatFieldName": "premium_due_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Deductible Amount $",
+        "customFormatFieldName": "deductible",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Deductible %",
+        "customFormatFieldName": "percent_deductible",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Wind Excluded (Y/N)",
+        "customFormatFieldName": "wind_excluded",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Replacement Cost (Y/N)",
+        "customFormatFieldName": "replace_cost_ind",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Replacement Cost $",
+        "customFormatFieldName": "replace_cost_amt",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Replacement %",
+        "customFormatFieldName": "replace_percentage",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Inc Coverage Amount",
+        "customFormatFieldName": "increased_coverage_amt",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Inc Coverage Premium Amount",
+        "customFormatFieldName": "increased_pre_coverage_amt",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Flood Zone",
+        "customFormatFieldName": "flood_zone",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Grandfather Zone (Y/N)",
+        "customFormatFieldName": "grandfather_zone",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Coverage",
+        "customFormatFieldName": "cov_type",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Fire Excluded",
+        "customFormatFieldName": "fire_excluded",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Document Issue Date",
+        "customFormatFieldName": "doc_issue_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "CA Fair Plan",
+        "customFormatFieldName": "ca_fair_plan",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Net Premium Amount Flag",
+        "customFormatFieldName": "net_premium_amt_flag",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Agent Name",
+        "customFormatFieldName": "agent_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Address Street Name",
+        "customFormatFieldName": "policy_holder_address_street_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Address Unit Number",
+        "customFormatFieldName": "policy_holder_address_unit_number",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Comprehensive Deductible",
+        "customFormatFieldName": "comprehensive_deductible_amount",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Unique Identifier",
+        "customFormatFieldName": "unique_identifier",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Vehicle Delete",
+        "customFormatFieldName": "vehicle_delete",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      }
+    ],
+    "mortgageFieldTransformationConfig": [
+      {
+        "titanFieldName": "Policy Holder Address",
+        "customFormatFieldName": "policy_holder_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Address Street Address",
+        "customFormatFieldName": "policy_holder_address_street_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Street Address",
+        "customFormatFieldName": "policy_holder_address_street_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Address City",
+        "customFormatFieldName": "policy_holder_address_city",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Address State",
+        "customFormatFieldName": "policy_holder_address_state",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Address Zip",
+        "customFormatFieldName": "policy_holder_address_zipcode",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder City",
+        "customFormatFieldName": "policy_holder_address_city",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder State",
+        "customFormatFieldName": "policy_holder_address_state",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Zip",
+        "customFormatFieldName": "policy_holder_address_zipcode",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Insurance Type",
+        "customFormatFieldName": "insurance_type",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Insurance Type ",
+        "customFormatFieldName": "insurance_type",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Effective Date",
+        "customFormatFieldName": "policy_effective_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Expiration Date",
+        "customFormatFieldName": "policy_expiration_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Change Effective Date",
+        "customFormatFieldName": "change_effective_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Cancellation Date",
+        "customFormatFieldName": "cancellation_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Collateral Year",
+        "customFormatFieldName": "collateral_year",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Collateral Make",
+        "customFormatFieldName": "collateral_make",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Collateral Model",
+        "customFormatFieldName": "collateral_model",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Collateral ID",
+        "customFormatFieldName": "collateral_id",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Comprehensive Deductible",
+        "customFormatFieldName": "comprehensive_deductible",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Comprehensive Coverage Flag",
+        "customFormatFieldName": "comp_cvg",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Collision Deductible",
+        "customFormatFieldName": "collision_deductible",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Collision Coverage Flag",
+        "customFormatFieldName": "coll_cvg",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Vehicle Delete",
+        "customFormatFieldName": "vehicle_delete",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Lienholder",
+        "customFormatFieldName": "lienholder_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Combined Hazard/Flood",
+        "customFormatFieldName": "combined_hazard_flag",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "HO6/Condominium",
+        "customFormatFieldName": "ho_6_flag",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Private Policy Flood",
+        "customFormatFieldName": "private_policy_flag",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Loan Number",
+        "customFormatFieldName": "loan_number",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Name",
+        "customFormatFieldName": "policy_holder_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property Address",
+        "customFormatFieldName": "property_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property Address Street",
+        "customFormatFieldName": "property_address_street_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property Address Street Name",
+        "customFormatFieldName": "property_address_street_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property Address Unit Number",
+        "customFormatFieldName": "property_address_street_unit_number",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property City",
+        "customFormatFieldName": "property_city",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property State",
+        "customFormatFieldName": "property_state",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property Zip",
+        "customFormatFieldName": "property_zip",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Cancel Date",
+        "customFormatFieldName": "policy_cancel_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Cancel Reason",
+        "customFormatFieldName": "policy_cancel_reason",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Cancel Reason Code",
+        "customFormatFieldName": "policy_cancel_reason_code",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Reinstatement Date",
+        "customFormatFieldName": "reinstatement_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Number",
+        "customFormatFieldName": "policy_number",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier Name",
+        "customFormatFieldName": "carrier_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier/Agent Phone",
+        "customFormatFieldName": "carrier_agent_phone",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier/Agent Name",
+        "customFormatFieldName": "carrier_agent_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier/Agent Email",
+        "customFormatFieldName": "carrier_agent_email",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier Agent Name",
+        "customFormatFieldName": "carrier_agent_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier Agent Email",
+        "customFormatFieldName": "carrier_agent_email",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier Agent Fax",
+        "customFormatFieldName": "carrier_agent_fax",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Carrier Agent Phone Number",
+        "customFormatFieldName": "carrier_agent_phone",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "NFIP Policy Number",
+        "customFormatFieldName": "nfip_policy_no",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee",
+        "customFormatFieldName": "mortgagee_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee Address",
+        "customFormatFieldName": "mortgagee_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee Address Street",
+        "customFormatFieldName": "mortgagee_street_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee Street Name",
+        "customFormatFieldName": "mortgagee_street_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee Unit Number",
+        "customFormatFieldName": "mortgagee_street_unit_number",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee City",
+        "customFormatFieldName": "mortgagee_city",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee State",
+        "customFormatFieldName": "mortgagee_state",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee Zip",
+        "customFormatFieldName": "mortgagee_zip",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Coverage Amount",
+        "customFormatFieldName": "coverage_amount",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Annual Premium",
+        "customFormatFieldName": "policy_premium",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Amount To Pay",
+        "customFormatFieldName": "additional_premium_amt",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Premium Due Date",
+        "customFormatFieldName": "premium_due_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Deductible Amount $",
+        "customFormatFieldName": "deductible",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Deductible %",
+        "customFormatFieldName": "percent_deductible",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Wind Excluded (Y/N)",
+        "customFormatFieldName": "wind_excluded",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Replacement Cost (Y/N)",
+        "customFormatFieldName": "replace_cost_ind",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Replacement Cost $",
+        "customFormatFieldName": "replace_cost_amt",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Replacement %",
+        "customFormatFieldName": "replace_percentage",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Inc Coverage Amount",
+        "customFormatFieldName": "increased_coverage_amt",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Inc Coverage Premium Amount",
+        "customFormatFieldName": "increased_pre_coverage_amt",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Flood Zone",
+        "customFormatFieldName": "flood_zone",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Grandfather Zone (Y/N)",
+        "customFormatFieldName": "grandfather_zone",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Coverage",
+        "customFormatFieldName": "cov_type",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Fire Excluded",
+        "customFormatFieldName": "fire_excluded",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Document Issue Date",
+        "customFormatFieldName": "doc_issue_date",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "CA Fair Plan",
+        "customFormatFieldName": "ca_fair_plan",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Net Premium Amount Flag",
+        "customFormatFieldName": "net_premium_amt_flag",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Address Street Name",
+        "customFormatFieldName": "policy_holder_address_street_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Policy Holder Address Unit Number",
+        "customFormatFieldName": "policy_holder_address_unit_number",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Comprehensive Deductible",
+        "customFormatFieldName": "comprehensive_deductible_amount",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Unique Identifier",
+        "customFormatFieldName": "unique_identifier",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Loan Number",
+        "customFormatFieldName": "loan_number",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Agent Email",
+        "customFormatFieldName": "carrier_agent_email",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Agent Fax",
+        "customFormatFieldName": "carrier_agent_fax",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "Agent Name",
+        "customFormatFieldName": "carrier_agent_name",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Property Street Address",
+        "customFormatFieldName": "property_street_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      },
+      {
+        "titanFieldName": "* Mortgagee Street Address",
+        "customFormatFieldName": "mortgagee_street_address",
+        "fieldType": "Single Value",
+        "fieldDataType": "String"
+      }
+    ]
+}
